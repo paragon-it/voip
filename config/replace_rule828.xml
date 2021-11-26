@@ -1,0 +1,7 @@
+<DialRule>
+<Data Prefix="([2-9]xxxxxx)" Replace="828$1" LineID="0"/>
+<Data Prefix="9(xxxxxxx)" Replace="828$1" LineID="0"/>
+<Data Prefix="9(xxxxxxxxxx)" Replace="$1" LineID="0"/>
+<Data Prefix="91(xxxxxxxxxx)" Replace="$1" LineID="0"/>
+<Data Prefix="1([2-9]xxxxxxxxx)" Replace="$1" LineID="0"/>
+</DialRule>
