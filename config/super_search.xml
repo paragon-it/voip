@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <root_super_search>
 	<item id_name="local_directory_search" display_name="Local Contacts" priority="2" enable="1" />
 	<item id_name="calllog_search" display_name="History" priority="3" enable="1" />
