@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <DialRule>
 <Data Prefix="([2-9]xxxxxx)" Replace="1706$1" LineID="0"/>
 <Data Prefix="([2-9]xxxxxxxxx)" Replace="1$1" LineID="0"/>
